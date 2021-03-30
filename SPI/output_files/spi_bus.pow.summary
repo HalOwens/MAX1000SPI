@@ -1,0 +1,12 @@
+Power Analyzer Status : Successful - Mon Mar 29 23:56:34 2021
+Quartus Prime Version : 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+Revision Name : spi_bus
+Top-level Entity Name : spi_bus
+Family : MAX 10
+Device : 10M08SAU169C8G
+Power Models : Final
+Total Thermal Power Dissipation : 126.78 mW
+Core Dynamic Thermal Power Dissipation : 0.55 mW
+Core Static Thermal Power Dissipation : 121.68 mW
+I/O Thermal Power Dissipation : 4.56 mW
+Power Estimation Confidence : Low: user provided insufficient toggle rate data

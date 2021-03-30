@@ -1,0 +1,25 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "SDI",
+					"strict" : false
+				},
+				{
+					"name" : "CSB",
+					"strict" : false
+				},
+				{
+					"name" : "CLK",
+					"strict" : false
+				},
+				{
+					"name" : "CLK12M",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

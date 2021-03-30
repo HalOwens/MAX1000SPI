@@ -1,0 +1,17 @@
+|spi_bus
+CLK12M => data.CLK
+CLK12M => transaction[0].CLK
+CLK12M => transaction[1].CLK
+CLK12M => transaction[2].CLK
+CLK12M => transaction[3].CLK
+CLK12M => transaction[4].CLK
+CLK12M => transaction[5].CLK
+CLK12M => transaction[6].CLK
+CLK12M => transaction[7].CLK
+CLK12M => csbReg.CLK
+CLK12M => clkReg.CLK
+SDI <= data.DB_MAX_OUTPUT_PORT_TYPE
+CSB <= csbReg.DB_MAX_OUTPUT_PORT_TYPE
+CLK <= clkReg.DB_MAX_OUTPUT_PORT_TYPE
+
+
